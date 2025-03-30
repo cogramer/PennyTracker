@@ -20,7 +20,7 @@ Usage
 - There are executable files for each available language, switching between them will only change the language interface as they all manage the same database file.
 - Current supported languages: English, Vietnamese.
 
-Functionality
+#Functionality
 -
 In the main menu
 -
