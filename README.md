@@ -20,7 +20,7 @@ How PennyTracker differs
 
 Installation
 -
-- Python 3.11+
+- Python 3.11+ (optional if you want to work with the source code)
 - SQLite installed (optional but recommended) https://www.sqlite.org/index.html
 
 Usage
