@@ -10,6 +10,14 @@ Features
 - Compact & fast, ideal for quick financial logging
 - Available in multiple languages
 
+How PennyTracker differs
+-
+`Lightweight & Simple`: Unlike full-fledged finance apps, PennyTracker is minimalistic and only focuses on expense tracking.
+
+`SQLite-based`: PennyTracker directly manages tables in a .db file, making it structured and modifiable outside the app.
+
+`Command-Line Interface`: Most alternatives have a GUI, while PennyTracker is CLI-driven, appealing to more technical users.
+
 Installation
 -
 - Python 3.11+
